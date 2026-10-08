@@ -1,0 +1,9 @@
+# Build output
+*.exe
+*.o
+*.s
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
