@@ -53,6 +53,8 @@ The last command prints `42`.
 
 ## What I'm learning
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 - C itself: pointers, strings, memory and the standard library
 - How a compiler is structured: tokenizing, parsing and code generation
 - x86-64 assembly and how function return values reach the operating system
